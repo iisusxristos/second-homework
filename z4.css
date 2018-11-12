@@ -1,0 +1,86 @@
+body {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left:0;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sant-serif;
+}
+.header {
+	background: green;
+	width: 100%;
+	height: 15%;
+	margin:0;
+	padding: 0;
+	text-align: center;
+	
+}
+.header:hover {
+	background: red;
+}
+.z {
+	background: url(paris.png);
+	background-size: 100% 100%;
+	display: inline-block;
+	width: 40%;
+	height: 85%;
+	margin: 0;
+	margin-top: 7px;
+	margin-right: 7.5%;
+	padding:0;
+}
+.x {
+	background: url(paris.png);
+	background-size: 100% 100%;
+	display: inline-block;
+	width: 40%;
+	height: 85%;
+	margin: 0;
+	padding:0;
+}
+.container {
+	width: 100%;
+	height: 60%;
+	margin-top:3%;
+}
+.container p {
+	font-size: 20px;
+	font-color:darkorange;
+	font-family: serif;
+	margin: 10px;
+}
+.a {
+	background: red;
+	width: 15%;
+	height: 100%;
+	display: inline-block;
+}
+.s {
+	background: grey;
+	width: 35%;
+	height: 100%;
+	display: inline-block;
+	vertical-align: top;
+}
+.d {
+	background: green;
+	width: 35%;
+	height: 100%;
+	display: inline-block;
+	vertical-align: top;
+}
+.footer {
+	position: absolute;
+	bottom: 0px;
+	background-color: rgba(0, 120, 201, 0.1);
+	width: 100%;
+	height: 10%;
+	margin: 0;
+	padding:0;
+}
+.footer:hover {
+	background-color: rgba(0, 120, 201, 1);
+}
+

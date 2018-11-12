@@ -1,0 +1,55 @@
+body {
+	background: darkgrey;
+	color:white;
+	margin: 0;
+}
+.container {
+	width:100%;
+	height:150px;
+	text-align: center;
+	margin: 0;
+}
+.block {
+	background: blue;
+	width: 42%;
+	height:80%;
+	margin:15px 3% 0px 3%;
+ 	display: inline-block;
+
+}
+.info {
+	background: yellow;
+	width: 90%;
+	height: 150px;
+	text-align: center;
+	margin:0 auto;
+	padding-top: 60px;
+}
+h2 {
+	padding: 0;
+	margin: 0;
+}
+.piedistal {
+	height: 200;
+	text-align: center;
+}
+.mesto {
+	background: white;
+	width: 26%;
+	height:150px;
+	margin:15px 3% 0px 3%;
+	padding: 0;
+ 	display: inline-block;
+}
+.menu {
+	height: 165;
+	text-align: center;
+}
+.itogi {
+	background: green;
+	width: 19.5%;
+	height:150px;
+	margin:15px 2% 0px 2%;
+ 	display: inline-block;
+
+}

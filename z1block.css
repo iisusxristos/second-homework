@@ -1,0 +1,88 @@
+body {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	margin: 0;
+	padding: 0;
+}
+.header {
+
+	position: absolute;
+	left: 5%;
+	margin: 0;
+	padding: 0;
+	width: 90%;
+	height: 18%;
+}
+.name {
+	position: absolute;
+	left: 5%;
+	top: 5%;
+	background: orange;
+	width: 40%;
+	height: 87%;
+	margin: 0;
+	padding: 0;
+
+}
+.namee {
+	position: absolute;
+	top: 5%;
+	right: 5%;
+	background: orange;
+	width: 40%;
+	height: 87%;
+	margin: 0;
+	padding: 0;
+}
+.text {
+	position: absolute;
+	top: 18%;
+	left:9.5%;
+	background: yellow;
+	width: 81%;
+	height: 36%;
+	margin: 0;
+	margin-bottom: 0.4%;
+	padding: 0;
+}
+.lideri {
+	position: absolute;
+	left: 9%;
+	top: 55%;
+
+	width: 82%;
+	height: 25%;
+	margin:0;
+	padding: 0;
+	text-align: center;	
+}
+.big {
+	background: blue;
+	width: 32.33%;
+	height: 96%;
+	display: inline-block;
+	margin: 0.5% 0.5%;
+}
+.footer {
+
+	position: absolute;
+	left: 9%;
+	top: 80%;
+	background: ;
+	width: 82%;
+	height: 18%;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+}
+.small {
+	display: inline-block;
+	background: grey;
+	width: 24.18%;
+	height: 98%;
+	margin: 0.5% 0.41%;
+	padding: 0;
+}
